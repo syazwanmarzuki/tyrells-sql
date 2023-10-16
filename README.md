@@ -8,4 +8,4 @@
 1. I may not be able to execute the query since there are no sample data to be imported in my database. I hope this method helps the query to improve its performance.
 
 **TIME TAKEN FOR THIS TEST**
-3 Hours including research rewriting the SQL Query.
+- 3 Hours including research and rewriting the SQL Query.
